@@ -1,0 +1,5 @@
+{
+  "name": "ClearStream AI",
+  "description": "Uma ferramenta avançada que utiliza IA Generativa (Veo) para reconstruir vídeos removendo marcas d'água e elementos indesejados.",
+  "requestFramePermissions": []
+}
